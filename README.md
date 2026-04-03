@@ -3,13 +3,13 @@
 
 ---
 <h2 align="left">About me</h2>
-**Backend Developer skilled in .NET, C#, SQL Server, and RESTful API development.**  
-**Experienced in applying Clean Architecture principles, building scalable systems, and optimizing application performance.**  
-**Strong ability to analyze requirements and deliver clean, maintainable, and efficient backend solutions.**
+Backend Developer skilled in .NET, C#, SQL Server, and RESTful API development. 
+Experienced in applying Clean Architecture principles, building scalable systems, and optimizing application performance. 
+Strong ability to analyze requirements and deliver clean, maintainable, and efficient backend solutions.
 
 ## 💻 Tech Stack:
 
-### 💻 Backend Tool
+### 🛠️Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
