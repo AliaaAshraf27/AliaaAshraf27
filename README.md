@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋 I'm Aliaa Ashraf</h1>
-<h3 align="center">Backend Developer | .NET Developer</h3>
+<h3 align="center"> Junior .NET Backend Developer</h3>
 
 ---
 <h2 align="left">About me</h2>
